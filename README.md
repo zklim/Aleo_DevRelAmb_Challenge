@@ -13,6 +13,7 @@ The program and its README to run tests are located in `devrel_challenge` direct
 ### Start in development mode
 
 ```bash
+npm install
 npm run dev
 ```
 
